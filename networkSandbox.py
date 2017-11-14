@@ -65,6 +65,3 @@ if __name__ == "__main__":
     if(output>0.9 or 0.1>output):
       break
   print (output)
-    
-    
-#https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a
