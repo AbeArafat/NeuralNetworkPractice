@@ -28,5 +28,3 @@ if __name__ == "__main__":
   print (neural_network.synaptic_weights)
   print ("Considering new situation [0, 1, 0] -> ?: ")
   print (neural_network.think(array([0, 1, 0])))
-
-# https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
