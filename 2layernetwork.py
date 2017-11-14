@@ -84,7 +84,3 @@ if __name__ == "__main__":
   print ("Stage 3) Considering a new situation [1, 0, 0] -> ?: ")
   hidden_state, output = neural_network.think(array([1, 0, 0]))
   print (output)
-  
-    
-    
-#https://medium.com/technology-invention-and-more/how-to-build-a-multi-layered-neural-network-in-python-53ec3d1d326a
